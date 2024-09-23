@@ -1,0 +1,63 @@
+{"time":"2024-09-20T16:03:48.75653181-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:03:48.75654162-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160348-64a5ug0j/logs/debug-core.log"}
+{"time":"2024-09-20T16:03:48.75657097-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:03:48.756574041-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160348-64a5ug0j/logs/debug-core.log"}
+{"time":"2024-09-20T16:03:48.757975566-04:00","level":"INFO","msg":"created new stream","id":"64a5ug0j"}
+{"time":"2024-09-20T16:03:48.757987132-04:00","level":"INFO","msg":"stream: started","id":"64a5ug0j"}
+{"time":"2024-09-20T16:03:48.758010177-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"64a5ug0j"}}
+{"time":"2024-09-20T16:03:48.758027994-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"64a5ug0j"}}
+{"time":"2024-09-20T16:03:48.758051572-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"64a5ug0j"}}
+{"time":"2024-09-20T16:03:48.918950443-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:03:48.919080731-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:05:48.919444075-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:05:48.919536201-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:05:58.919805128-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:05:58.919815052-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:06:08.920288129-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:06:08.920343013-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:06:18.920221658-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:06:18.920275298-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:06:28.920266251-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:06:28.920322703-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:06:38.919927216-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:06:38.92001774-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:06:48.920149203-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:06:48.920213614-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:06:58.919966007-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:06:58.920073552-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:07:08.919768096-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:07:08.919834238-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:07:18.920207409-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:07:18.920296671-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:07:28.919337373-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:07:28.919399556-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:07:38.919532397-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:07:38.919707149-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:07:48.920324069-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:07:48.920328065-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:07:58.919851515-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:07:58.919922093-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:08:08.920342215-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:08:08.920417113-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:08:18.920022183-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:08:18.920266017-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:08:28.919349205-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:08:28.919381424-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:08:38.920083777-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:08:38.920187086-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:08:48.91950764-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:08:48.921040916-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:08:58.920263654-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:08:58.920332056-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:09:08.919719866-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:09:08.919780922-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:09:18.920215063-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:09:18.920283002-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:09:28.919964538-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:09:28.920086403-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:09:38.920025611-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:09:38.920067897-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:09:48.91954449-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}
+{"time":"2024-09-20T16:09:48.919585826-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:09:58.919723353-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2923823/statm: no such file or directory"}
+{"time":"2024-09-20T16:09:58.919763869-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2923823/stat: no such file or directory\nopen /proc/2923823/status: no such file or directory"}

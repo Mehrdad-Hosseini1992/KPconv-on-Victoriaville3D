@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:09:22.84231429-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:22.84232583-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160922-gzv5l70a/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:22.84235461-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:22.842358893-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160922-gzv5l70a/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:22.843757887-04:00","level":"INFO","msg":"created new stream","id":"gzv5l70a"}
+{"time":"2024-09-20T16:09:22.843771854-04:00","level":"INFO","msg":"stream: started","id":"gzv5l70a"}
+{"time":"2024-09-20T16:09:22.843793042-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"gzv5l70a"}}
+{"time":"2024-09-20T16:09:22.843793656-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gzv5l70a"}}
+{"time":"2024-09-20T16:09:22.843800169-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gzv5l70a"}}
+{"time":"2024-09-20T16:09:23.06338158-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:09:23.063677239-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:10:03.0645481-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2941805/stat: no such file or directory\nopen /proc/2941805/status: no such file or directory"}
+{"time":"2024-09-20T16:10:03.064570899-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2941805/statm: no such file or directory"}

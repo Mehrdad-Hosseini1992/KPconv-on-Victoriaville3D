@@ -1,0 +1,209 @@
+{"time":"2024-09-20T16:15:54.576069257-04:00","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmpaq_ggcv4/port-2949035.txt","pid":2949035,"debug":false,"disable-analytics":false}
+{"time":"2024-09-20T16:15:54.576083461-04:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-09-20T16:15:54.585815306-04:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":46403,"Zone":""}}
+{"time":"2024-09-20T16:15:54.585854553-04:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":2949035}
+{"time":"2024-09-20T16:15:54.777991521-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:50002"}
+{"time":"2024-09-20T16:15:54.956330849-04:00","level":"INFO","msg":"connection init received","streamId":"z6rmnrp3","id":"127.0.0.1:50002"}
+{"time":"2024-09-20T16:15:54.956426018-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161554-z6rmnrp3/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:15:54.95767071-04:00","level":"INFO","msg":"connection init completed","streamId":"z6rmnrp3","id":"127.0.0.1:50002"}
+{"time":"2024-09-20T16:16:00.901448109-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:50004"}
+{"time":"2024-09-20T16:16:01.079674588-04:00","level":"INFO","msg":"connection init received","streamId":"l0y4g766","id":"127.0.0.1:50004"}
+{"time":"2024-09-20T16:16:01.079864208-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161601-l0y4g766/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:01.081652515-04:00","level":"INFO","msg":"connection init completed","streamId":"l0y4g766","id":"127.0.0.1:50004"}
+{"time":"2024-09-20T16:16:05.712958946-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:57670"}
+{"time":"2024-09-20T16:16:05.866967453-04:00","level":"INFO","msg":"connection init received","streamId":"etos3atx","id":"127.0.0.1:57670"}
+{"time":"2024-09-20T16:16:05.867030798-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161605-etos3atx/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:05.867860627-04:00","level":"INFO","msg":"connection init completed","streamId":"etos3atx","id":"127.0.0.1:57670"}
+{"time":"2024-09-20T16:16:11.300656279-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:57674"}
+{"time":"2024-09-20T16:16:11.463058999-04:00","level":"INFO","msg":"connection init received","streamId":"tgfnopj5","id":"127.0.0.1:57674"}
+{"time":"2024-09-20T16:16:11.463151466-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161611-tgfnopj5/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:11.46448024-04:00","level":"INFO","msg":"connection init completed","streamId":"tgfnopj5","id":"127.0.0.1:57674"}
+{"time":"2024-09-20T16:16:16.012134739-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:51776"}
+{"time":"2024-09-20T16:16:16.188414534-04:00","level":"INFO","msg":"connection init received","streamId":"j215gt9l","id":"127.0.0.1:51776"}
+{"time":"2024-09-20T16:16:16.188479294-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161616-j215gt9l/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:16.189335462-04:00","level":"INFO","msg":"connection init completed","streamId":"j215gt9l","id":"127.0.0.1:51776"}
+{"time":"2024-09-20T16:16:20.727743788-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:51778"}
+{"time":"2024-09-20T16:16:20.895547478-04:00","level":"INFO","msg":"connection init received","streamId":"i6b709bm","id":"127.0.0.1:51778"}
+{"time":"2024-09-20T16:16:20.895689367-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161620-i6b709bm/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:20.897311672-04:00","level":"INFO","msg":"connection init completed","streamId":"i6b709bm","id":"127.0.0.1:51778"}
+{"time":"2024-09-20T16:16:26.23875135-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:59924"}
+{"time":"2024-09-20T16:16:26.40670776-04:00","level":"INFO","msg":"connection init received","streamId":"xq5b1vfd","id":"127.0.0.1:59924"}
+{"time":"2024-09-20T16:16:26.406871511-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161626-xq5b1vfd/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:26.408813846-04:00","level":"INFO","msg":"connection init completed","streamId":"xq5b1vfd","id":"127.0.0.1:59924"}
+{"time":"2024-09-20T16:16:30.923288529-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:59928"}
+{"time":"2024-09-20T16:16:31.075482135-04:00","level":"INFO","msg":"connection init received","streamId":"0udhl1tn","id":"127.0.0.1:59928"}
+{"time":"2024-09-20T16:16:31.075545108-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161631-0udhl1tn/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:31.076443755-04:00","level":"INFO","msg":"connection init completed","streamId":"0udhl1tn","id":"127.0.0.1:59928"}
+{"time":"2024-09-20T16:16:35.575227209-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:56854"}
+{"time":"2024-09-20T16:16:36.532940123-04:00","level":"INFO","msg":"connection init received","streamId":"orc5yjno","id":"127.0.0.1:56854"}
+{"time":"2024-09-20T16:16:36.53308648-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161636-orc5yjno/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:36.53465702-04:00","level":"INFO","msg":"connection init completed","streamId":"orc5yjno","id":"127.0.0.1:56854"}
+{"time":"2024-09-20T16:16:41.146497688-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:56868"}
+{"time":"2024-09-20T16:16:41.310894351-04:00","level":"INFO","msg":"connection init received","streamId":"0pbdg34s","id":"127.0.0.1:56868"}
+{"time":"2024-09-20T16:16:41.31103015-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161641-0pbdg34s/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:41.312869716-04:00","level":"INFO","msg":"connection init completed","streamId":"0pbdg34s","id":"127.0.0.1:56868"}
+{"time":"2024-09-20T16:16:45.873910813-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:43134"}
+{"time":"2024-09-20T16:16:46.035120885-04:00","level":"INFO","msg":"connection init received","streamId":"o7568no2","id":"127.0.0.1:43134"}
+{"time":"2024-09-20T16:16:46.035212972-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161646-o7568no2/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:46.03641264-04:00","level":"INFO","msg":"connection init completed","streamId":"o7568no2","id":"127.0.0.1:43134"}
+{"time":"2024-09-20T16:16:50.491888289-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:43148"}
+{"time":"2024-09-20T16:16:50.651540221-04:00","level":"INFO","msg":"connection init received","streamId":"s74zzfzk","id":"127.0.0.1:43148"}
+{"time":"2024-09-20T16:16:50.651606041-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161650-s74zzfzk/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:50.652416336-04:00","level":"INFO","msg":"connection init completed","streamId":"s74zzfzk","id":"127.0.0.1:43148"}
+{"time":"2024-09-20T16:16:55.242919853-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:44992"}
+{"time":"2024-09-20T16:16:55.400019408-04:00","level":"INFO","msg":"connection init received","streamId":"bai8sjpy","id":"127.0.0.1:44992"}
+{"time":"2024-09-20T16:16:55.400139042-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161655-bai8sjpy/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:16:55.401464078-04:00","level":"INFO","msg":"connection init completed","streamId":"bai8sjpy","id":"127.0.0.1:44992"}
+{"time":"2024-09-20T16:16:59.909326542-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:45004"}
+{"time":"2024-09-20T16:17:00.073100676-04:00","level":"INFO","msg":"connection init received","streamId":"0xiu4gvj","id":"127.0.0.1:45004"}
+{"time":"2024-09-20T16:17:00.073223107-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161700-0xiu4gvj/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:00.074696339-04:00","level":"INFO","msg":"connection init completed","streamId":"0xiu4gvj","id":"127.0.0.1:45004"}
+{"time":"2024-09-20T16:17:04.788892953-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:55288"}
+{"time":"2024-09-20T16:17:04.955112612-04:00","level":"INFO","msg":"connection init received","streamId":"vg9v3205","id":"127.0.0.1:55288"}
+{"time":"2024-09-20T16:17:04.955197362-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161704-vg9v3205/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:04.956424549-04:00","level":"INFO","msg":"connection init completed","streamId":"vg9v3205","id":"127.0.0.1:55288"}
+{"time":"2024-09-20T16:17:09.647498156-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:55298"}
+{"time":"2024-09-20T16:17:09.792605022-04:00","level":"INFO","msg":"connection init received","streamId":"8fayehe3","id":"127.0.0.1:55298"}
+{"time":"2024-09-20T16:17:09.792682391-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161709-8fayehe3/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:09.793700118-04:00","level":"INFO","msg":"connection init completed","streamId":"8fayehe3","id":"127.0.0.1:55298"}
+{"time":"2024-09-20T16:17:14.472929469-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:45284"}
+{"time":"2024-09-20T16:17:14.622165693-04:00","level":"INFO","msg":"connection init received","streamId":"v91cgm4o","id":"127.0.0.1:45284"}
+{"time":"2024-09-20T16:17:14.622430466-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161714-v91cgm4o/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:14.623534653-04:00","level":"INFO","msg":"connection init completed","streamId":"v91cgm4o","id":"127.0.0.1:45284"}
+{"time":"2024-09-20T16:17:19.174445196-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:45292"}
+{"time":"2024-09-20T16:17:19.3495806-04:00","level":"INFO","msg":"connection init received","streamId":"qs0dssm9","id":"127.0.0.1:45292"}
+{"time":"2024-09-20T16:17:19.349688803-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161719-qs0dssm9/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:19.351139706-04:00","level":"INFO","msg":"connection init completed","streamId":"qs0dssm9","id":"127.0.0.1:45292"}
+{"time":"2024-09-20T16:17:23.908841903-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:41176"}
+{"time":"2024-09-20T16:17:24.058452241-04:00","level":"INFO","msg":"connection init received","streamId":"rhioispn","id":"127.0.0.1:41176"}
+{"time":"2024-09-20T16:17:24.058553473-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161724-rhioispn/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:24.060052483-04:00","level":"INFO","msg":"connection init completed","streamId":"rhioispn","id":"127.0.0.1:41176"}
+{"time":"2024-09-20T16:17:28.618809195-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:41182"}
+{"time":"2024-09-20T16:17:28.779441325-04:00","level":"INFO","msg":"connection init received","streamId":"oxdccyyu","id":"127.0.0.1:41182"}
+{"time":"2024-09-20T16:17:28.779541423-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161728-oxdccyyu/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:28.780831754-04:00","level":"INFO","msg":"connection init completed","streamId":"oxdccyyu","id":"127.0.0.1:41182"}
+{"time":"2024-09-20T16:17:33.320595063-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:60558"}
+{"time":"2024-09-20T16:17:33.481681038-04:00","level":"INFO","msg":"connection init received","streamId":"qtk0zkqj","id":"127.0.0.1:60558"}
+{"time":"2024-09-20T16:17:33.48178081-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161733-qtk0zkqj/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:33.483091316-04:00","level":"INFO","msg":"connection init completed","streamId":"qtk0zkqj","id":"127.0.0.1:60558"}
+{"time":"2024-09-20T16:17:37.998091622-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:60570"}
+{"time":"2024-09-20T16:17:38.148135967-04:00","level":"INFO","msg":"connection init received","streamId":"1v9q9uyv","id":"127.0.0.1:60570"}
+{"time":"2024-09-20T16:17:38.148195488-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161738-1v9q9uyv/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:38.14910489-04:00","level":"INFO","msg":"connection init completed","streamId":"1v9q9uyv","id":"127.0.0.1:60570"}
+{"time":"2024-09-20T16:17:42.681258948-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:60580"}
+{"time":"2024-09-20T16:17:42.839958735-04:00","level":"INFO","msg":"connection init received","streamId":"svsqmlao","id":"127.0.0.1:60580"}
+{"time":"2024-09-20T16:17:42.84002609-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161742-svsqmlao/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:42.840971859-04:00","level":"INFO","msg":"connection init completed","streamId":"svsqmlao","id":"127.0.0.1:60580"}
+{"time":"2024-09-20T16:17:47.406852759-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:39026"}
+{"time":"2024-09-20T16:17:47.571462394-04:00","level":"INFO","msg":"connection init received","streamId":"68vud6us","id":"127.0.0.1:39026"}
+{"time":"2024-09-20T16:17:47.571586071-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161747-68vud6us/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:47.573148226-04:00","level":"INFO","msg":"connection init completed","streamId":"68vud6us","id":"127.0.0.1:39026"}
+{"time":"2024-09-20T16:17:52.064301926-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:39034"}
+{"time":"2024-09-20T16:17:52.233584708-04:00","level":"INFO","msg":"connection init received","streamId":"9ox4cqki","id":"127.0.0.1:39034"}
+{"time":"2024-09-20T16:17:52.233730724-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161752-9ox4cqki/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:52.235532768-04:00","level":"INFO","msg":"connection init completed","streamId":"9ox4cqki","id":"127.0.0.1:39034"}
+{"time":"2024-09-20T16:17:56.789851934-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:40994"}
+{"time":"2024-09-20T16:17:56.944548131-04:00","level":"INFO","msg":"connection init received","streamId":"mld8xsuc","id":"127.0.0.1:40994"}
+{"time":"2024-09-20T16:17:56.944767869-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161756-mld8xsuc/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:17:56.947321771-04:00","level":"INFO","msg":"connection init completed","streamId":"mld8xsuc","id":"127.0.0.1:40994"}
+{"time":"2024-09-20T16:19:54.240272114-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:46346"}
+{"time":"2024-09-20T16:19:54.397471926-04:00","level":"INFO","msg":"connection init received","streamId":"l4x753ze","id":"127.0.0.1:46346"}
+{"time":"2024-09-20T16:19:54.397607536-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161954-l4x753ze/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:19:54.399262567-04:00","level":"INFO","msg":"connection init completed","streamId":"l4x753ze","id":"127.0.0.1:46346"}
+{"time":"2024-09-20T16:19:57.549294533-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:46354"}
+{"time":"2024-09-20T16:19:57.700199731-04:00","level":"INFO","msg":"connection init received","streamId":"msmx1eop","id":"127.0.0.1:46354"}
+{"time":"2024-09-20T16:19:57.700279606-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161957-msmx1eop/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:19:57.701239434-04:00","level":"INFO","msg":"connection init completed","streamId":"msmx1eop","id":"127.0.0.1:46354"}
+{"time":"2024-09-20T16:20:00.779020022-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:46360"}
+{"time":"2024-09-20T16:20:00.943496938-04:00","level":"INFO","msg":"connection init received","streamId":"2du2t2gd","id":"127.0.0.1:46360"}
+{"time":"2024-09-20T16:20:00.943595186-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162000-2du2t2gd/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:00.944784845-04:00","level":"INFO","msg":"connection init completed","streamId":"2du2t2gd","id":"127.0.0.1:46360"}
+{"time":"2024-09-20T16:20:04.170804074-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:54940"}
+{"time":"2024-09-20T16:20:04.330755881-04:00","level":"INFO","msg":"connection init received","streamId":"2atxq8zf","id":"127.0.0.1:54940"}
+{"time":"2024-09-20T16:20:04.330855742-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162004-2atxq8zf/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:04.332364543-04:00","level":"INFO","msg":"connection init completed","streamId":"2atxq8zf","id":"127.0.0.1:54940"}
+{"time":"2024-09-20T16:20:07.479117811-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:54954"}
+{"time":"2024-09-20T16:20:07.63527481-04:00","level":"INFO","msg":"connection init received","streamId":"143g25x5","id":"127.0.0.1:54954"}
+{"time":"2024-09-20T16:20:07.635383171-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162007-143g25x5/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:07.636800158-04:00","level":"INFO","msg":"connection init completed","streamId":"143g25x5","id":"127.0.0.1:54954"}
+{"time":"2024-09-20T16:20:10.74242354-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:54962"}
+{"time":"2024-09-20T16:20:10.908963466-04:00","level":"INFO","msg":"connection init received","streamId":"jiu9j6sc","id":"127.0.0.1:54962"}
+{"time":"2024-09-20T16:20:10.909129987-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162010-jiu9j6sc/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:10.911198342-04:00","level":"INFO","msg":"connection init completed","streamId":"jiu9j6sc","id":"127.0.0.1:54962"}
+{"time":"2024-09-20T16:20:13.998233654-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:60390"}
+{"time":"2024-09-20T16:20:14.170497625-04:00","level":"INFO","msg":"connection init received","streamId":"djuumjhq","id":"127.0.0.1:60390"}
+{"time":"2024-09-20T16:20:14.17067748-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162014-djuumjhq/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:14.173044145-04:00","level":"INFO","msg":"connection init completed","streamId":"djuumjhq","id":"127.0.0.1:60390"}
+{"time":"2024-09-20T16:20:17.409023406-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:60402"}
+{"time":"2024-09-20T16:20:17.575786351-04:00","level":"INFO","msg":"connection init received","streamId":"gairtyjr","id":"127.0.0.1:60402"}
+{"time":"2024-09-20T16:20:17.575946854-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162017-gairtyjr/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:17.577738519-04:00","level":"INFO","msg":"connection init completed","streamId":"gairtyjr","id":"127.0.0.1:60402"}
+{"time":"2024-09-20T16:20:20.696300209-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:60412"}
+{"time":"2024-09-20T16:20:20.860754355-04:00","level":"INFO","msg":"connection init received","streamId":"4gnbm9lq","id":"127.0.0.1:60412"}
+{"time":"2024-09-20T16:20:20.860969276-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162020-4gnbm9lq/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:20.863500246-04:00","level":"INFO","msg":"connection init completed","streamId":"4gnbm9lq","id":"127.0.0.1:60412"}
+{"time":"2024-09-20T16:20:24.025228879-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:38840"}
+{"time":"2024-09-20T16:20:24.173383735-04:00","level":"INFO","msg":"connection init received","streamId":"r9uix20n","id":"127.0.0.1:38840"}
+{"time":"2024-09-20T16:20:24.173536353-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162024-r9uix20n/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:24.175196951-04:00","level":"INFO","msg":"connection init completed","streamId":"r9uix20n","id":"127.0.0.1:38840"}
+{"time":"2024-09-20T16:20:27.379870123-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:38850"}
+{"time":"2024-09-20T16:20:27.54023382-04:00","level":"INFO","msg":"connection init received","streamId":"5w0cyoay","id":"127.0.0.1:38850"}
+{"time":"2024-09-20T16:20:27.540334876-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162027-5w0cyoay/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:27.541658465-04:00","level":"INFO","msg":"connection init completed","streamId":"5w0cyoay","id":"127.0.0.1:38850"}
+{"time":"2024-09-20T16:20:30.642689897-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:38858"}
+{"time":"2024-09-20T16:20:30.796846948-04:00","level":"INFO","msg":"connection init received","streamId":"0u3ckb8u","id":"127.0.0.1:38858"}
+{"time":"2024-09-20T16:20:30.796955643-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162030-0u3ckb8u/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:30.798516054-04:00","level":"INFO","msg":"connection init completed","streamId":"0u3ckb8u","id":"127.0.0.1:38858"}
+{"time":"2024-09-20T16:20:33.951241228-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:50768"}
+{"time":"2024-09-20T16:20:34.105879203-04:00","level":"INFO","msg":"connection init received","streamId":"qsky9qd9","id":"127.0.0.1:50768"}
+{"time":"2024-09-20T16:20:34.105990037-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162034-qsky9qd9/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:34.107391477-04:00","level":"INFO","msg":"connection init completed","streamId":"qsky9qd9","id":"127.0.0.1:50768"}
+{"time":"2024-09-20T16:20:37.263249942-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:50776"}
+{"time":"2024-09-20T16:20:37.430529701-04:00","level":"INFO","msg":"connection init received","streamId":"7jp7pg9o","id":"127.0.0.1:50776"}
+{"time":"2024-09-20T16:20:37.430660387-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162037-7jp7pg9o/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:37.432418706-04:00","level":"INFO","msg":"connection init completed","streamId":"7jp7pg9o","id":"127.0.0.1:50776"}
+{"time":"2024-09-20T16:20:40.562545358-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:50778"}
+{"time":"2024-09-20T16:20:40.723988242-04:00","level":"INFO","msg":"connection init received","streamId":"uwa695cy","id":"127.0.0.1:50778"}
+{"time":"2024-09-20T16:20:40.724089641-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162040-uwa695cy/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:40.725552244-04:00","level":"INFO","msg":"connection init completed","streamId":"uwa695cy","id":"127.0.0.1:50778"}
+{"time":"2024-09-20T16:20:43.991513081-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:40614"}
+{"time":"2024-09-20T16:20:44.152226023-04:00","level":"INFO","msg":"connection init received","streamId":"ziwpl8l3","id":"127.0.0.1:40614"}
+{"time":"2024-09-20T16:20:44.152345621-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162044-ziwpl8l3/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:44.153740554-04:00","level":"INFO","msg":"connection init completed","streamId":"ziwpl8l3","id":"127.0.0.1:40614"}
+{"time":"2024-09-20T16:20:47.362719034-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:40624"}
+{"time":"2024-09-20T16:20:47.523978914-04:00","level":"INFO","msg":"connection init received","streamId":"vytsz27g","id":"127.0.0.1:40624"}
+{"time":"2024-09-20T16:20:47.524082368-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162047-vytsz27g/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:47.525540743-04:00","level":"INFO","msg":"connection init completed","streamId":"vytsz27g","id":"127.0.0.1:40624"}
+{"time":"2024-09-20T16:20:50.744301527-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:40638"}
+{"time":"2024-09-20T16:20:51.131812723-04:00","level":"INFO","msg":"connection init received","streamId":"imr387v8","id":"127.0.0.1:40638"}
+{"time":"2024-09-20T16:20:51.132113416-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162051-imr387v8/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:51.136391013-04:00","level":"INFO","msg":"connection init completed","streamId":"imr387v8","id":"127.0.0.1:40638"}
+{"time":"2024-09-20T16:20:54.657816089-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:55500"}
+{"time":"2024-09-20T16:20:54.829847109-04:00","level":"INFO","msg":"connection init received","streamId":"qv5zhp0b","id":"127.0.0.1:55500"}
+{"time":"2024-09-20T16:20:54.829934873-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162054-qv5zhp0b/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:54.831212518-04:00","level":"INFO","msg":"connection init completed","streamId":"qv5zhp0b","id":"127.0.0.1:55500"}
+{"time":"2024-09-20T16:20:58.086766895-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:55502"}
+{"time":"2024-09-20T16:20:58.244295937-04:00","level":"INFO","msg":"connection init received","streamId":"me11vogi","id":"127.0.0.1:55502"}
+{"time":"2024-09-20T16:20:58.244395949-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162058-me11vogi/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:20:58.245796149-04:00","level":"INFO","msg":"connection init completed","streamId":"me11vogi","id":"127.0.0.1:55502"}
+{"time":"2024-09-20T16:21:01.407174053-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:55506"}
+{"time":"2024-09-20T16:21:01.580061754-04:00","level":"INFO","msg":"connection init received","streamId":"cilr51rd","id":"127.0.0.1:55506"}
+{"time":"2024-09-20T16:21:01.580150739-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162101-cilr51rd/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:21:01.581262716-04:00","level":"INFO","msg":"connection init completed","streamId":"cilr51rd","id":"127.0.0.1:55506"}
+{"time":"2024-09-20T16:21:04.732863459-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:52152"}
+{"time":"2024-09-20T16:21:04.886014936-04:00","level":"INFO","msg":"connection init received","streamId":"27ecydz4","id":"127.0.0.1:52152"}
+{"time":"2024-09-20T16:21:04.886085708-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162104-27ecydz4/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:21:04.887099511-04:00","level":"INFO","msg":"connection init completed","streamId":"27ecydz4","id":"127.0.0.1:52152"}
+{"time":"2024-09-20T16:21:08.100014815-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:52160"}
+{"time":"2024-09-20T16:21:08.26404881-04:00","level":"INFO","msg":"connection init received","streamId":"rkhxfz1o","id":"127.0.0.1:52160"}
+{"time":"2024-09-20T16:21:08.264297712-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162108-rkhxfz1o/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:21:08.28001175-04:00","level":"INFO","msg":"connection init completed","streamId":"rkhxfz1o","id":"127.0.0.1:52160"}
+{"time":"2024-09-20T16:21:11.481683928-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:52162"}
+{"time":"2024-09-20T16:21:11.629473304-04:00","level":"INFO","msg":"connection init received","streamId":"fo9jaem6","id":"127.0.0.1:52162"}
+{"time":"2024-09-20T16:21:11.629577287-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162111-fo9jaem6/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:21:11.630950153-04:00","level":"INFO","msg":"connection init completed","streamId":"fo9jaem6","id":"127.0.0.1:52162"}
+{"time":"2024-09-20T16:21:14.783144635-04:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:44838"}
+{"time":"2024-09-20T16:21:14.944546636-04:00","level":"INFO","msg":"connection init received","streamId":"vrjphdb7","id":"127.0.0.1:44838"}
+{"time":"2024-09-20T16:21:14.944618822-04:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/mehrdad/.cache/wandb/logs/core-debug-20240920_161554.log /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_162114-vrjphdb7/logs/debug-core.log: file exists"}
+{"time":"2024-09-20T16:21:14.945529193-04:00","level":"INFO","msg":"connection init completed","streamId":"vrjphdb7","id":"127.0.0.1:44838"}
+{"time":"2024-09-20T16:24:58.785651739-04:00","level":"INFO","msg":"Parent process exited, terminating service process."}

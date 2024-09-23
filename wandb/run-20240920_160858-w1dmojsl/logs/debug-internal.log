@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:08:58.64111883-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:08:58.641127564-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160858-w1dmojsl/logs/debug-core.log"}
+{"time":"2024-09-20T16:08:58.641153957-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:08:58.641156808-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160858-w1dmojsl/logs/debug-core.log"}
+{"time":"2024-09-20T16:08:58.642647173-04:00","level":"INFO","msg":"created new stream","id":"w1dmojsl"}
+{"time":"2024-09-20T16:08:58.642660016-04:00","level":"INFO","msg":"stream: started","id":"w1dmojsl"}
+{"time":"2024-09-20T16:08:58.642672177-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"w1dmojsl"}}
+{"time":"2024-09-20T16:08:58.642690811-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"w1dmojsl"}}
+{"time":"2024-09-20T16:08:58.642690807-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"w1dmojsl"}}
+{"time":"2024-09-20T16:08:58.844853615-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:08:58.851293981-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:09:58.852324168-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2940183/statm: no such file or directory"}
+{"time":"2024-09-20T16:09:58.852404061-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2940183/stat: no such file or directory\nopen /proc/2940183/status: no such file or directory"}

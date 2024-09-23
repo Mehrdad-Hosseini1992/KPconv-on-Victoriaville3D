@@ -1,0 +1,11 @@
+{"time":"2024-09-20T16:14:56.86221419-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:14:56.862218804-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161456-q09ro32y/logs/debug-core.log"}
+{"time":"2024-09-20T16:14:56.862233122-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:14:56.862234453-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161456-q09ro32y/logs/debug-core.log"}
+{"time":"2024-09-20T16:14:56.863456302-04:00","level":"INFO","msg":"created new stream","id":"q09ro32y"}
+{"time":"2024-09-20T16:14:56.863465269-04:00","level":"INFO","msg":"stream: started","id":"q09ro32y"}
+{"time":"2024-09-20T16:14:56.863472327-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"q09ro32y"}}
+{"time":"2024-09-20T16:14:56.863503778-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"q09ro32y"}}
+{"time":"2024-09-20T16:14:56.863530723-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"q09ro32y"}}
+{"time":"2024-09-20T16:14:57.120933944-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:14:57.121637514-04:00","level":"INFO","msg":"Starting system monitor"}

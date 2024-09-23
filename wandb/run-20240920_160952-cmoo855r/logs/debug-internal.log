@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:09:52.564861448-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:52.564866412-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160952-cmoo855r/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:52.564880718-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:52.564882335-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160952-cmoo855r/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:52.565773927-04:00","level":"INFO","msg":"created new stream","id":"cmoo855r"}
+{"time":"2024-09-20T16:09:52.565781492-04:00","level":"INFO","msg":"stream: started","id":"cmoo855r"}
+{"time":"2024-09-20T16:09:52.56579116-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"cmoo855r"}}
+{"time":"2024-09-20T16:09:52.565803146-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"cmoo855r"}}
+{"time":"2024-09-20T16:09:52.565795373-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cmoo855r"}}
+{"time":"2024-09-20T16:09:52.811402009-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:09:52.811879609-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:10:02.812356303-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2944730/statm: no such file or directory"}
+{"time":"2024-09-20T16:10:02.812411862-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2944730/stat: no such file or directory\nopen /proc/2944730/status: no such file or directory"}

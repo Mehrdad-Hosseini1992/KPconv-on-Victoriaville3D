@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:09:42.630338992-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:42.63034542-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160942-vw4sv0qm/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:42.630364184-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:42.630365939-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160942-vw4sv0qm/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:42.631600046-04:00","level":"INFO","msg":"created new stream","id":"vw4sv0qm"}
+{"time":"2024-09-20T16:09:42.631623112-04:00","level":"INFO","msg":"stream: started","id":"vw4sv0qm"}
+{"time":"2024-09-20T16:09:42.6316398-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vw4sv0qm"}}
+{"time":"2024-09-20T16:09:42.631660321-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vw4sv0qm"}}
+{"time":"2024-09-20T16:09:42.631687331-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"vw4sv0qm"}}
+{"time":"2024-09-20T16:09:42.807801931-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:09:42.808082352-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:10:02.809033808-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2943832/statm: no such file or directory"}
+{"time":"2024-09-20T16:10:02.809695022-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2943832/stat: no such file or directory\nopen /proc/2943832/status: no such file or directory"}

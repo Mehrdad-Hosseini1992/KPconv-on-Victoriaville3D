@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:08:14.558534741-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:08:14.558544424-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160814-hyybejzi/logs/debug-core.log"}
+{"time":"2024-09-20T16:08:14.558565455-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:08:14.558568321-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160814-hyybejzi/logs/debug-core.log"}
+{"time":"2024-09-20T16:08:14.559944045-04:00","level":"INFO","msg":"created new stream","id":"hyybejzi"}
+{"time":"2024-09-20T16:08:14.55995404-04:00","level":"INFO","msg":"stream: started","id":"hyybejzi"}
+{"time":"2024-09-20T16:08:14.55997404-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hyybejzi"}}
+{"time":"2024-09-20T16:08:14.559988407-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hyybejzi"}}
+{"time":"2024-09-20T16:08:14.56000585-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"hyybejzi"}}
+{"time":"2024-09-20T16:08:14.721743749-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:08:14.722039368-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:10:04.72342133-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2936889/statm: no such file or directory"}
+{"time":"2024-09-20T16:10:04.723516501-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2936889/stat: no such file or directory\nopen /proc/2936889/status: no such file or directory"}

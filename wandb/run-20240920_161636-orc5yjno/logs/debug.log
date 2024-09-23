@@ -1,0 +1,26 @@
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Configure stats pid to 2950522
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Loading settings from /home/mehrdad/.config/wandb/settings
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Loading settings from /home/mehrdad/Codes/2iem-Exam/wandb/settings
+2024-09-20 16:16:36,531 WARNING MainThread:2950522 [wandb_setup.py:_flush():77] Unknown environment variable: WANDB_SERVICE
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_init.py:_log_setup():532] Logging user logs to /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161636-orc5yjno/logs/debug.log
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_init.py:_log_setup():533] Logging internal logs to /home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161636-orc5yjno/logs/debug-internal.log
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_init.py:init():616] calling init triggers
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.01, 'epochs': 550}
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_init.py:init():666] starting backend
+2024-09-20 16:16:36,531 INFO    MainThread:2950522 [wandb_init.py:init():670] setting up manager
+2024-09-20 16:16:36,532 INFO    MainThread:2950522 [backend.py:_multiprocessing_setup():107] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-09-20 16:16:36,535 INFO    MainThread:2950522 [wandb_init.py:init():678] backend started and connected
+2024-09-20 16:16:36,539 INFO    MainThread:2950522 [wandb_init.py:init():773] updated telemetry
+2024-09-20 16:16:36,544 INFO    MainThread:2950522 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-20 16:16:36,842 INFO    MainThread:2950522 [wandb_init.py:init():857] starting run threads in backend
+2024-09-20 16:16:36,943 INFO    MainThread:2950522 [wandb_run.py:_console_start():2459] atexit reg
+2024-09-20 16:16:36,943 INFO    MainThread:2950522 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2024-09-20 16:16:36,943 INFO    MainThread:2950522 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2024-09-20 16:16:36,943 INFO    MainThread:2950522 [wandb_run.py:_redirect():2397] Redirects installed.
+2024-09-20 16:16:36,945 INFO    MainThread:2950522 [wandb_init.py:init():900] run started, returning control to user process

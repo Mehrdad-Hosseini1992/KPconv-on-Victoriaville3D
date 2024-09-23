@@ -1,0 +1,71 @@
+
+Data Preparation
+****************
+
+Preparing ply files
+Done in 0.0s
+The set is training
+The files are ['ND-Train-1', 'ND-Train-2', 'ND-Train-3', 'ND-Train-4']
+
+Found KDTree for cloud ND-Train-1, subsampled at 0.030
+257.6 MB loaded in 0.2s
+
+Found KDTree for cloud ND-Train-2, subsampled at 0.030
+319.6 MB loaded in 0.3s
+
+Found KDTree for cloud ND-Train-3, subsampled at 0.030
+320.5 MB loaded in 0.3s
+
+Found KDTree for cloud ND-Train-4, subsampled at 0.030
+255.6 MB loaded in 0.2s
+
+Preparing potentials
+Done in 0.0s
+
+
+Preparing ply files
+Done in 0.0s
+The set is validation
+The files are ['Validation']
+
+Found KDTree for cloud Validation, subsampled at 0.030
+204.5 MB loaded in 0.2s
+
+Preparing potentials
+Done in 0.0s
+
+Preparing reprojection indices for testing
+Validation done in 0.3s
+
+
+Starting Calibration (use verbose=True for more details)
+
+Previous calibration found:
+Check batch limit dictionary
+[92m"potentials_2.500_0.030_5": 70366[0m
+Check neighbors limit dictionary
+[92m"0.030_0.060": 21[0m
+[92m"0.060_0.120": 18[0m
+[92m"0.120_0.240": 19[0m
+[92m"0.240_0.960": 99[0m
+[92m"0.480_1.920": 104[0m
+Calibration done in 0.0s
+
+
+Starting Calibration (use verbose=True for more details)
+
+Previous calibration found:
+Check batch limit dictionary
+[92m"potentials_2.500_0.030_5": 70366[0m
+Check neighbors limit dictionary
+[92m"0.030_0.060": 21[0m
+[92m"0.060_0.120": 18[0m
+[92m"0.120_0.240": 19[0m
+[92m"0.240_0.960": 99[0m
+[92m"0.480_1.920": 104[0m
+Calibration done in 0.0s
+
+
+Model Preparation
+*****************
+Backend QtAgg is interactive backend. Turning interactive mode on.

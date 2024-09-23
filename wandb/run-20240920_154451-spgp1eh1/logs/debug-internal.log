@@ -1,0 +1,11 @@
+{"time":"2024-09-20T15:44:51.291315926-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T15:44:51.291321454-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_154451-spgp1eh1/logs/debug-core.log"}
+{"time":"2024-09-20T15:44:51.29133907-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T15:44:51.291340749-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_154451-spgp1eh1/logs/debug-core.log"}
+{"time":"2024-09-20T15:44:51.293149204-04:00","level":"INFO","msg":"created new stream","id":"spgp1eh1"}
+{"time":"2024-09-20T15:44:51.293159247-04:00","level":"INFO","msg":"stream: started","id":"spgp1eh1"}
+{"time":"2024-09-20T15:44:51.293169959-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"spgp1eh1"}}
+{"time":"2024-09-20T15:44:51.293198853-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"spgp1eh1"}}
+{"time":"2024-09-20T15:44:51.293206463-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"spgp1eh1"}}
+{"time":"2024-09-20T15:44:52.463837011-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T15:44:52.464321565-04:00","level":"INFO","msg":"Starting system monitor"}

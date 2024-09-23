@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:09:08.426935458-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:08.426942942-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160908-i417bsn8/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:08.426962719-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:08.426964846-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160908-i417bsn8/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:08.428221529-04:00","level":"INFO","msg":"created new stream","id":"i417bsn8"}
+{"time":"2024-09-20T16:09:08.428235483-04:00","level":"INFO","msg":"stream: started","id":"i417bsn8"}
+{"time":"2024-09-20T16:09:08.42825152-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"i417bsn8"}}
+{"time":"2024-09-20T16:09:08.428251186-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"i417bsn8"}}
+{"time":"2024-09-20T16:09:08.428270055-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"i417bsn8"}}
+{"time":"2024-09-20T16:09:08.607273639-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:09:08.607438575-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:09:58.609038763-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2940981/stat: no such file or directory\nopen /proc/2940981/status: no such file or directory"}
+{"time":"2024-09-20T16:09:58.609089214-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2940981/statm: no such file or directory"}

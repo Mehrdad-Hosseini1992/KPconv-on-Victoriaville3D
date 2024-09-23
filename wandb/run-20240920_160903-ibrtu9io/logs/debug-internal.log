@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:09:03.573064472-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:03.57307578-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160903-ibrtu9io/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:03.573106944-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:09:03.573110762-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160903-ibrtu9io/logs/debug-core.log"}
+{"time":"2024-09-20T16:09:03.574764498-04:00","level":"INFO","msg":"created new stream","id":"ibrtu9io"}
+{"time":"2024-09-20T16:09:03.574781349-04:00","level":"INFO","msg":"stream: started","id":"ibrtu9io"}
+{"time":"2024-09-20T16:09:03.574796717-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ibrtu9io"}}
+{"time":"2024-09-20T16:09:03.574816922-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ibrtu9io"}}
+{"time":"2024-09-20T16:09:03.57486253-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ibrtu9io"}}
+{"time":"2024-09-20T16:09:03.805650984-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:09:03.805832138-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:10:03.80679369-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2940575/statm: no such file or directory"}
+{"time":"2024-09-20T16:10:03.80693352-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2940575/stat: no such file or directory\nopen /proc/2940575/status: no such file or directory"}

@@ -1,0 +1,11 @@
+{"time":"2024-09-20T16:15:54.956410239-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:15:54.956417077-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161554-z6rmnrp3/logs/debug-core.log"}
+{"time":"2024-09-20T16:15:54.956439571-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:15:54.956441803-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_161554-z6rmnrp3/logs/debug-core.log"}
+{"time":"2024-09-20T16:15:54.957657854-04:00","level":"INFO","msg":"created new stream","id":"z6rmnrp3"}
+{"time":"2024-09-20T16:15:54.957667716-04:00","level":"INFO","msg":"stream: started","id":"z6rmnrp3"}
+{"time":"2024-09-20T16:15:54.957679756-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"z6rmnrp3"}}
+{"time":"2024-09-20T16:15:54.957682924-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"z6rmnrp3"}}
+{"time":"2024-09-20T16:15:54.957675343-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"z6rmnrp3"}}
+{"time":"2024-09-20T16:15:55.179573165-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:15:55.180196277-04:00","level":"INFO","msg":"Starting system monitor"}

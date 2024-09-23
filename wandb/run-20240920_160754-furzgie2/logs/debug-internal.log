@@ -1,0 +1,13 @@
+{"time":"2024-09-20T16:07:54.907328076-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:07:54.907336234-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160754-furzgie2/logs/debug-core.log"}
+{"time":"2024-09-20T16:07:54.907362349-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T16:07:54.907365165-04:00","level":"INFO","msg":"created symlink","path":"/home/mehrdad/Codes/2iem-Exam/wandb/run-20240920_160754-furzgie2/logs/debug-core.log"}
+{"time":"2024-09-20T16:07:54.908799611-04:00","level":"INFO","msg":"created new stream","id":"furzgie2"}
+{"time":"2024-09-20T16:07:54.90881534-04:00","level":"INFO","msg":"stream: started","id":"furzgie2"}
+{"time":"2024-09-20T16:07:54.908818359-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"furzgie2"}}
+{"time":"2024-09-20T16:07:54.908832847-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"furzgie2"}}
+{"time":"2024-09-20T16:07:54.908839213-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"furzgie2"}}
+{"time":"2024-09-20T16:07:55.06679465-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T16:07:55.066961207-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T16:10:05.068469617-04:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: open /proc/2935590/statm: no such file or directory"}
+{"time":"2024-09-20T16:10:05.068564094-04:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: open /proc/2935590/stat: no such file or directory\nopen /proc/2935590/status: no such file or directory"}
